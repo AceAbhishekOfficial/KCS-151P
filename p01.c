@@ -1,5 +1,5 @@
 /*
-                WAP to calculate area of traingle using heron's formula
+                WAP to calculate area of triangle using heron's formula
                             Code by Abhishek
 
 */
