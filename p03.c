@@ -1,5 +1,5 @@
 /*
-                WOP to calculate roots of a quadratic equation.
+                Write a program to determine the roots of quadratic equation.
                             Code by Abhishek
 */
 #include <stdio.h>
