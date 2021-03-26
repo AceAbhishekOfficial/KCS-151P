@@ -1,5 +1,5 @@
 /*
-                Write a program to convert binary number in to decimal number. 
+                Write a program to convert binary number in to decimal number.
                         Code by Abhishek
 */
 
