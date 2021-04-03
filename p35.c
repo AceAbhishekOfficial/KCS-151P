@@ -54,8 +54,8 @@ int main()
     h[4].roomcharge=1200.0;
     h[4].rooms =400;
     
-    printGrade(5,h,4);
-    return 1
+    printGrade(sizeof(h)/sizeof(h[0]),h,4);
+    return 1;
 }
 
 void printGrade(int n ,struct hotel hlist[], int g)
