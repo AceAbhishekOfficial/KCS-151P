@@ -12,8 +12,8 @@ int main()
     float d =(b*b)-4*(a*c);
     if(d<0) //imaginary roots
     {
-        d=sqrt(-d)/2;
-        float x =(-b)/2;
+        d=sqrt(-d)/(2*a);
+        float x =(-b)/(2*a);
         printf("Roots are %.3f + %.3fi , %.3f - %.3fi",x,d,x,d);
     }
     else
