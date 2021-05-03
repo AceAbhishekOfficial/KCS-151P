@@ -15,7 +15,7 @@ int main()
         else
         printf("Largest number is %i",c);
     }
-    if(a>c)
+    else if(a>c)
     {
         if(a>b)
         printf("Largest number is %i",a);
