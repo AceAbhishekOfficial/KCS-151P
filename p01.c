@@ -3,7 +3,7 @@
                             Code by Abhishek
 
 */
-
+#include <math.h>
 #include <stdio.h>
 int main()
 {
